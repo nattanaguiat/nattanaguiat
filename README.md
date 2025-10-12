@@ -23,7 +23,7 @@
 
 ### 🚀 Projects
 
-#### 🏫 [Golf Academy Platform](https://github.com/nattanaguiat/golf-academy)
+#### 🏫 [Golf Academy Platform](https://github.com/nattanaguiat/Rio-Pinar-Golf-Academy)
 A full-stack web application that manages golf lessons, coaches, and students.  
 - Built with **MERN stack**, **JWT authentication**, and **Tailwind CSS**  
 - Includes **Admin / Coach / Student** roles with protected routes  
