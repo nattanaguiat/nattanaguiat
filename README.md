@@ -13,7 +13,7 @@ A full-stack web application that manages golf lessons, coaches, and students.
 - Built with **MERN stack**, **JWT authentication**, and **Tailwind CSS**  
 - Includes **Admin / Coach / Student** roles with protected routes  
 - Integrated **Cloudinary** for media storage and **Express API** for scheduling  
-- Designed responsive dashboard views with **Shadcn UI components**  
+- Deployed with **Render** and **MongoDB Atlas** for reliable backend and database hosting 
 
 #### 🛒 [Go-Go-Grocery](https://github.com/cablej02/go-go-grocery)  
 A **PERN stack** application to simulate your grocery list and track your items.  
@@ -35,8 +35,7 @@ A **PERN stack** application to simulate your grocery list and track your items.
 ### 📫 Connect with Me
 
 - [💼 LinkedIn](https://linkedin.com/in/nattanaguiat)  
-- [📸 Instagram](https://instagram.com/nattanaguiat)  
-- [🌐 Portfolio](https://nattanaguiat.github.io)  
+- [📸 Instagram](https://instagram.com/nattanaguiat)   
 
 ---
 
