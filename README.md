@@ -37,8 +37,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,12 +46,6 @@
 ### 🚀 Featured Projects
 
 #### 📊 Data Engineering Projects
-
-🔨 **Coming Soon — Building My Data Engineering Portfolio**
-
-I'm currently exploring ideas for my first independent Data Engineering project, with a focus on applying **Python, SQL, ETL processes, data modeling, and database management** to real-world datasets.
-
-My goal is to develop end-to-end data solutions that demonstrate how raw data can be extracted, transformed, stored, and used to generate meaningful business insights.
 
 #### 🏫 [Golf Academy Platform](https://github.com/nattanaguiat/Rio-Pinar-Golf-Academy)
 
@@ -81,7 +73,7 @@ A **PERN Stack** application for organizing grocery lists and managing items.
 
 I'm an aspiring **Data Engineer with a background in Full-Stack Web Development**, passionate about building reliable data pipelines, designing efficient databases, and transforming raw data into actionable insights.
 
-My software development background allows me to understand how applications generate, process, and consume data, giving me a strong foundation for approaching data challenges from both an engineering and business perspective.
+My software development background allows me to understand how applications generate, process and consume data, giving me a strong foundation for approaching data challenges from both an engineering and business perspective.
 
 🎓 **Education & Professional Development**
 
@@ -102,7 +94,7 @@ My software development background allows me to understand how applications gene
 
 🎯 **Career Goal**
 
-To grow into a Data Engineering role where I can combine my experience in software development with Python, SQL, and data processing to design scalable data solutions and support data-driven decision-making.
+To grow into a Data Engineering role where I can combine my experience in software development with Python, SQL and data processing to design scalable data solutions and support data-driven decision-making.
 
 ---
 
@@ -116,7 +108,7 @@ I'm open to entry-level opportunities in:
 - SQL Developer
 - Junior Data Integration Developer
 
-I'm especially interested in opportunities where I can contribute to real-world data projects, collaborate with experienced engineers, and continue developing my technical skills.
+I'm especially interested in opportunities where I can contribute to real-world data projects, collaborate with experienced engineers and continue developing my technical skills.
 
 ---
 
