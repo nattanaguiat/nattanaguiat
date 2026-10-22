@@ -45,7 +45,10 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 Data Engineering Projects
+#### 📊 Data Engineering Project
+
+
+#### 📊 Software Development Projects
 
 #### 🏫 [Golf Academy Platform](https://github.com/nattanaguiat/Rio-Pinar-Golf-Academy)
 
