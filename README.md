@@ -48,6 +48,19 @@
 #### 📊 Data Engineering Project
 
 
+#### 🏗️ [Sales Data Warehouse | SQL & PostgreSQL](https://github.com/nattanaguiat/sales-sql-warehouse-project)
+
+An end-to-end **SQL Data Warehouse** project designed to integrate, clean, transform, and model sales data from CRM and ERP systems for analytics and reporting.
+
+- Designed and implemented a **Medallion Architecture (Bronze, Silver, Gold)** using PostgreSQL.
+- Built **ETL pipelines** with SQL and PL/pgSQL stored procedures to load, clean, standardize, and transform raw CSV data.
+- Integrated **CRM and ERP datasets**, handling duplicates, missing values, inconsistent formats, and data quality issues.
+- Developed a **Star Schema** with customer and product dimensions and a sales fact table for analytical queries.
+- Implemented **data quality checks** to validate primary keys, referential integrity, and data consistency.
+- Used **PostgreSQL 17, Docker, DBeaver, SQL, and PL/pgSQL** in a local development environment.
+- Documented the data architecture, ETL processes, and Gold Layer data dictionary.
+
+
 #### 📊 Software Development Projects
 
 #### 🏫 [Golf Academy Platform](https://github.com/nattanaguiat/Rio-Pinar-Golf-Academy)
